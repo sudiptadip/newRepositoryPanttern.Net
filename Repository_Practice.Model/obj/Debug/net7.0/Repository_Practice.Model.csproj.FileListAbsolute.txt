@@ -1,0 +1,12 @@
+D:\.Net\Repository_Practice\Repository_Practice.Model\bin\Debug\net7.0\Repository_Practice.Model.deps.json
+D:\.Net\Repository_Practice\Repository_Practice.Model\bin\Debug\net7.0\Repository_Practice.Model.dll
+D:\.Net\Repository_Practice\Repository_Practice.Model\bin\Debug\net7.0\Repository_Practice.Model.pdb
+D:\.Net\Repository_Practice\Repository_Practice.Model\obj\Debug\net7.0\Repository_Practice.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Repository_Practice\Repository_Practice.Model\obj\Debug\net7.0\Repository_Practice.Model.AssemblyInfoInputs.cache
+D:\.Net\Repository_Practice\Repository_Practice.Model\obj\Debug\net7.0\Repository_Practice.Model.AssemblyInfo.cs
+D:\.Net\Repository_Practice\Repository_Practice.Model\obj\Debug\net7.0\Repository_Practice.Model.csproj.CoreCompileInputs.cache
+D:\.Net\Repository_Practice\Repository_Practice.Model\obj\Debug\net7.0\Repository_Practice.Model.dll
+D:\.Net\Repository_Practice\Repository_Practice.Model\obj\Debug\net7.0\refint\Repository_Practice.Model.dll
+D:\.Net\Repository_Practice\Repository_Practice.Model\obj\Debug\net7.0\Repository_Practice.Model.pdb
+D:\.Net\Repository_Practice\Repository_Practice.Model\obj\Debug\net7.0\ref\Repository_Practice.Model.dll
+D:\.Net\Repository_Practice\Repository_Practice.Model\obj\Debug\net7.0\Repository_Practice.Model.csproj.AssemblyReference.cache

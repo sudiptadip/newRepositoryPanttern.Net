@@ -1,0 +1,23 @@
+﻿@model List<Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div style="width: 100%;">
+    <div class="row justify-content-between" >
+        @foreach(var obj in Model)
+        {
+            <div class="col-xl-3 px-3 col-lg-4 col-md-6 mb-3" >
+                <div class="card shadow" style="width: 18rem; height: 550px !important; overflow: hidden; border-radius: 10px">
+                    <img style="height: 350px !important;" class="card-img-top" src="@obj.Url" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">@obj.BookTitle</h5>
+                        <p class="card-text text-center"> <strong>Author</strong> @obj.Author</p>
+                        <p class="card-text text-center"> <strong>Category</strong> @obj.Category.CategoryName</p>
+                        <p class="card-text text-center"> <strong>Price</strong> @obj.Price/-</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

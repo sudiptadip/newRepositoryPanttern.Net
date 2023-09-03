@@ -1,0 +1,17 @@
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\bin\Debug\net7.0\Repository_Practice.DataAccess.deps.json
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\bin\Debug\net7.0\Repository_Practice.DataAccess.runtimeconfig.json
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\bin\Debug\net7.0\Repository_Practice.DataAccess.dll
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\bin\Debug\net7.0\Repository_Practice.DataAccess.pdb
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\obj\Debug\net7.0\Repository_Practice.DataAccess.csproj.AssemblyReference.cache
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\obj\Debug\net7.0\Repository_Practice.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\obj\Debug\net7.0\Repository_Practice.DataAccess.AssemblyInfoInputs.cache
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\obj\Debug\net7.0\Repository_Practice.DataAccess.AssemblyInfo.cs
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\obj\Debug\net7.0\Repository_Practice.DataAccess.csproj.CoreCompileInputs.cache
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\obj\Debug\net7.0\Repository_Practice.DataAccess.dll
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\obj\Debug\net7.0\refint\Repository_Practice.DataAccess.dll
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\obj\Debug\net7.0\Repository_Practice.DataAccess.pdb
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\obj\Debug\net7.0\Repository_Practice.DataAccess.genruntimeconfig.cache
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\obj\Debug\net7.0\ref\Repository_Practice.DataAccess.dll
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\bin\Debug\net7.0\Repository_Practice.Model.dll
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\bin\Debug\net7.0\Repository_Practice.Model.pdb
+D:\.Net\Repository_Practice\Repository_Practice.DataAccess\obj\Debug\net7.0\Repository_Practice.DataAccess.csproj.CopyComplete
