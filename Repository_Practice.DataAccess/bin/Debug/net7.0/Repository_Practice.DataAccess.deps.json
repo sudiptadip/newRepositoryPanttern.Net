@@ -989,7 +989,8 @@
       },
       "Repository_Practice.Model/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Microsoft.Extensions.Identity.Stores": "7.0.10"
         },
         "runtime": {
           "Repository_Practice.Model.dll": {}

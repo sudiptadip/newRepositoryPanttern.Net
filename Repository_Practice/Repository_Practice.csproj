@@ -22,6 +22,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Repository_Practice.DataAccess\Repository_Practice.DataAccess.csproj" />
     <ProjectReference Include="..\Repository_Practice.Model\Repository_Practice.Model.csproj" />
+    <ProjectReference Include="..\Repository_Practice.Utility\Repository_Practice.Utility.csproj" />
   </ItemGroup>
 
 </Project>

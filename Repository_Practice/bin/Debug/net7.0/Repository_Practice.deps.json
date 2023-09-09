@@ -16,7 +16,8 @@
           "Microsoft.EntityFrameworkCore.Tools": "7.0.10",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.9",
           "Repository_Practice.DataAccess": "1.0.0",
-          "Repository_Practice.Model": "1.0.0"
+          "Repository_Practice.Model": "1.0.0",
+          "Repository_Practice.Utility": "1.0.0"
         },
         "runtime": {
           "Repository_Practice.dll": {}
@@ -2914,10 +2915,19 @@
       },
       "Repository_Practice.Model/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Microsoft.Extensions.Identity.Stores": "7.0.10"
         },
         "runtime": {
           "Repository_Practice.Model.dll": {}
+        }
+      },
+      "Repository_Practice.Utility/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "7.0.10"
+        },
+        "runtime": {
+          "Repository_Practice.Utility.dll": {}
         }
       }
     }
@@ -4733,6 +4743,11 @@
       "sha512": ""
     },
     "Repository_Practice.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository_Practice.Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

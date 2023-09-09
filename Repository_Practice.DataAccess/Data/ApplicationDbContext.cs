@@ -18,5 +18,6 @@ namespace Repository_Practice.DataAccess.Data
         }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<AplicationUser> AplicationUsers { get; set; }
     }
 }

@@ -4565,13 +4565,27 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Microsoft.Extensions.Identity.Stores": "7.0.10"
         },
         "compile": {
           "bin/placeholder/Repository_Practice.Model.dll": {}
         },
         "runtime": {
           "bin/placeholder/Repository_Practice.Model.dll": {}
+        }
+      },
+      "Repository_Practice.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "7.0.10"
+        },
+        "compile": {
+          "bin/placeholder/Repository_Practice.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository_Practice.Utility.dll": {}
         }
       }
     }
@@ -12629,6 +12643,11 @@
       "type": "project",
       "path": "../Repository_Practice.Model/Repository_Practice.Model.csproj",
       "msbuildProject": "../Repository_Practice.Model/Repository_Practice.Model.csproj"
+    },
+    "Repository_Practice.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Repository_Practice.Utility/Repository_Practice.Utility.csproj",
+      "msbuildProject": "../Repository_Practice.Utility/Repository_Practice.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12641,7 +12660,8 @@
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.10",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.9",
       "Repository_Practice.DataAccess >= 1.0.0",
-      "Repository_Practice.Model >= 1.0.0"
+      "Repository_Practice.Model >= 1.0.0",
+      "Repository_Practice.Utility >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12681,6 +12701,9 @@
             },
             "D:\\.Net\\Repository_Practice\\Repository_Practice.Model\\Repository_Practice.Model.csproj": {
               "projectPath": "D:\\.Net\\Repository_Practice\\Repository_Practice.Model\\Repository_Practice.Model.csproj"
+            },
+            "D:\\.Net\\Repository_Practice\\Repository_Practice.Utility\\Repository_Practice.Utility.csproj": {
+              "projectPath": "D:\\.Net\\Repository_Practice\\Repository_Practice.Utility\\Repository_Practice.Utility.csproj"
             }
           }
         }

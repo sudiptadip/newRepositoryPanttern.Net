@@ -6,6 +6,7 @@ using System.Diagnostics;
 
 namespace Repository_Practice.Areas.User.Controllers
 {
+    [Area("User")]
     public class HomeController : Controller
     {
         private readonly IUniteOfWork _uniteOfWork;

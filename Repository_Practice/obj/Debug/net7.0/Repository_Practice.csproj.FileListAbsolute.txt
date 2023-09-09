@@ -292,3 +292,5 @@ D:\.Net\Repository_Practice\Repository_Practice\bin\Debug\net7.0\runtimes\win-ar
 D:\.Net\Repository_Practice\Repository_Practice\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\.Net\Repository_Practice\Repository_Practice\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\.Net\Repository_Practice\Repository_Practice\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\.Net\Repository_Practice\Repository_Practice\bin\Debug\net7.0\Repository_Practice.Utility.dll
+D:\.Net\Repository_Practice\Repository_Practice\bin\Debug\net7.0\Repository_Practice.Utility.pdb

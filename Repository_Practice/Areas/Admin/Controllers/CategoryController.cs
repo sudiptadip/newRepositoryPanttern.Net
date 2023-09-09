@@ -1,9 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Repository_Practice.DataAccess.Repository.IRepository;
 using Repository_Practice.Model.Models;
+using Repository_Practice.Utility;
 
 namespace Repository_Practice.Areas.Admin.Controllers
 {
+    [Area("Admin")]
+    [Authorize(Roles = Sd.Admin_Role)]
     public class CategoryController : Controller
     {
         private readonly IUniteOfWork _uniteOfWork;
