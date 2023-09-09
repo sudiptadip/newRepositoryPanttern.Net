@@ -12,6 +12,7 @@ namespace Repository_Practice.DataAccess.Repository
     {
         private ApplicationDbContext _db;
         public ICategoryRepository category { get; private set; }
+        public ICompanyRepository company { get; private set; }
 
         public IProductRepository product { get; private set; }
 
@@ -20,6 +21,7 @@ namespace Repository_Practice.DataAccess.Repository
             _db = db;
             category = new CategoryRepository(_db);
             product = new ProductReository(_db);
+            company = new CompanyRepository(_db);
         }
 
         public void Save()

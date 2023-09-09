@@ -9,6 +9,7 @@ namespace Repository_Practice.DataAccess.Repository.IRepository
     public interface IUniteOfWork
     {
         ICategoryRepository category { get; }
+        ICompanyRepository company { get; }
         IProductRepository product { get; }
         void Save();
     }
